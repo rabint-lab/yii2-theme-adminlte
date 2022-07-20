@@ -1,0 +1,141 @@
+body>.header .logo {
+    font-family: inherit;
+}
+
+body>.header .navbar .nav>li>a>.badge {
+    position: absolute;
+    top: 4px;
+    right: 0;
+    font-size: 75%;
+}
+
+body .navbar-nav>.notifications-menu>.dropdown-menu>li .menu>li>a>.glyphicon,
+body .navbar-nav>.notifications-menu>.dropdown-menu>li .menu>li>a>.fa,
+body .navbar-nav>.notifications-menu>.dropdown-menu>li .menu>li>a>.ion {
+    background: none;
+    color: inherit;
+}
+
+body .user-panel>.info {
+    padding-left: 10px;
+}
+
+body .table {
+    word-break: break-all;
+}
+
+.spacer {
+    margin-top: 15px;
+}
+
+.master-title {
+    margin: 0 !important;
+}
+
+
+/*# sourceMappingURL=style.map */
+
+
+/*# sourceMappingURL=style.map */
+
+.form-control {
+    padding: 6px 6px;
+}
+
+.box-header>.box-tools.pull-right {
+    right: 10px;
+    left: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: iran;
+}
+
+.status_desc_box .status_desc_label {
+    color: #16a085;
+    float: left;
+    display: block;
+    cursor: pointer;
+}
+
+.tab-content {
+    background: #fff;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    position: relative;
+}
+
+.nav-tabs>li>a {
+    margin-right: 0px;
+}
+
+.alert.alert-default {
+    background: #eee;
+}
+
+.optGroup {
+    background: #fbfbfb;
+    padding: 15px;
+    border: 1px solid #d1d1d1;
+    position: relative;
+}
+
+.rabint_clone_btn {
+    position: absolute;
+    left: 15px;
+    top: 22px;
+    cursor: pointer;
+    color: #16ad68;
+}
+
+.rabint_clone_btn:hover {
+    color: #188955;
+}
+
+.rabint_unclone_btn {
+    position: absolute;
+    left: -5px;
+    top: -8px;
+    color: #f00;
+    cursor: pointer;
+}
+
+.rabint_unclone_btn:hover {
+    color: #c00;
+}
+
+.optGroup {
+    width: 49%;
+    margin: .5%;
+    float: right;
+}
+
+.sepratorTag {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: #9B9B9B;
+    border-bottom: 1px solid #ddd;
+    background: #fbfbfb;
+    clear: both;
+    padding-bottom: 5px;
+}
+
+@media(max-width:767px) {
+    .optGroup {
+        width: 100%;
+        margin: 1% 0%;
+    }
+}

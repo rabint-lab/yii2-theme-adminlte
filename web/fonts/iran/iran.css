@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'iran';
+	src: url('IRANSANSExpanded.eot?#') format('eot'),  /* IE6–8 */
+	url('IRANSANSExpanded.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('IRANSANSExpanded.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'iran';
+	src: url('IRANSans-Bold.eot?#') format('eot'),  /* IE6–8 */
+	url('IRANSans-Bold.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('IRANSans-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	font-weight: bold;
+}
