@@ -3,7 +3,7 @@
     "description": "Yii2 theme-adminlte by rabint",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "theme-adminlte"],
-    "license": "rabint",
+    "license": "MIT",
     "authors": [{
         "name": "Mojtaba Akbarzadeh",
         "email": "akbarzadeh.mojtaba@gmail.com"
